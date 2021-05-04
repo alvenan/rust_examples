@@ -1,4 +1,4 @@
-# rust_examples
+# Rust Examples
 
 To compile a .rs file use bellow command
 $ rustc hello.rs
