@@ -1,0 +1,1 @@
+/home/alisonv/Documents/code/rust_examples/stack_heap/target/debug/stack_heap: /home/alisonv/Documents/code/rust_examples/stack_heap/src/main.rs /home/alisonv/Documents/code/rust_examples/stack_heap/src/stack_heap.rs
